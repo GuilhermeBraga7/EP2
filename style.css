@@ -1,0 +1,30 @@
+.logo{
+    width: 22%;
+    border-radius: 40%;
+    transition: 10s;
+}
+.logo:hover{
+    width: 22%;
+    border-radius: 40%;
+    transition: 10s;
+}
+header{
+    background-color:rgb(89, 255, 200);
+    display: flex;
+}
+nav li{
+    text-align: inline;
+    margin: 60px;
+}
+nav{
+    text-align: right;
+    margin: 0 0  0 200px;
+}
+header{
+    position: relative;
+    top: 30%
+}
+nav li{
+    display: inline;
+    margin: 15px;
+}
